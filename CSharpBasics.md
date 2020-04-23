@@ -1,9 +1,9 @@
-C#
+# C#
 -----------------------------------------------------------------
 
-1. Einfuehrung
+### 1. Einfuehrung
 
-C# ist eine typsichere, objektorientierte Allzweck-Programmiersprache.
+C# ist eine typsichere, objektorientierte **Allzweck-Programmiersprache**.
 Historisch wurde C# fast exklusiv für Windows entwickelt.
 Durch Xamarin ist es inzwischen aber auch möglich, für macOS, iOS und Android zu entwickeln.
 Zudem gibt es mit .NET Core auch offizielle Unterstützung für GNU/Linux und macOS [1].
@@ -19,7 +19,7 @@ In der Folge erschienen regelmäßig umfangreiche Erweiterungen der Sprache durc
 Durch die Entwicklung des Referenc-Compilers als Open Source (seit 2014)
 sind auch Community-Beiträge möglich.
 
-2. Konzepte
+### 2. Konzepte
 
 C# greift Konzepte der Programmiersprachen Java, C++, Haskell, C sowie von Delphi auf.
 C# zählt zu den objektorientierten Programmiersprachen und unterstützt
@@ -31,7 +31,7 @@ Zeiger, werden in C# nur für sogenannten „unsicheren Code“
 erlaubt, der in Zonen mit eingeschränkten Rechten (z. B. bei Programmen, die aus Webseiten
 heraus ausgeführt werden) ohne die Zuteilung erweiterter Rechte nicht ausgeführt wird.
 
-3. Entwicklungsschritte
+### 3. Entwicklungsschritte
 
 2002 	.NET 1.0 	C# 1.0
 2003 	.NET 1.1 	C# 1.2
@@ -40,7 +40,7 @@ heraus ausgeführt werden) ohne die Zuteilung erweiterter Rechte nicht ausgefüh
 2010 	.NET 4.0 	C# 4.0
 2019 	.NET Core 3 	C#8.0
 
-4. Hello World Beispiel
+### 4. Hello World Beispiel
 
 using System;
 
@@ -50,7 +50,7 @@ class Program {
     }
 }
 
-Referenzen
+#### Referenzen
 
 [1] Bis hier her siehe: Joseph Albahari; Ben Albahari: C# 6.0 in a Nutshell. The Definitive Reference. 6. Auflage. O'Reilly, Sebastopol 2016, ISBN 978-1-4919-2706-9, S. 1–6. Joseph Albahari; Ben Albahari: C# 6.0 Pocket Reference Instant Help for C# 6.0 Programmers. O'Reilly, Sebastopol 2015, ISBN 978-1-4919-2741-0, S. 1.
 
